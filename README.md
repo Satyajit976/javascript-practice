@@ -10,6 +10,7 @@
 --:VARIABLES:--
 ->It is a container to store some data.
 ->There are 3 types of variables present in JavaScript:-
+
     1.let: 
             -It is a type of variable which is used for changing the variable name later.
             -Now, most of the cases we use 'let' for creating variables.
