@@ -1,21 +1,22 @@
 ---:Introduction to JavaScript:---
 
-->JavaScript is a high level programming language for building web-application more efficiently.
+    ->JavaScript is a high level programming language for building web-application more efficiently.
 
-->JavaScript works on both client side as well as server side rendering.
+    ->JavaScript works on both client side as well as server side rendering.
 
-->JavaScript comes from echma script, so we see the latest version of the JvaScript in the form of echma script(ES).
+    ->JavaScript comes from echma script, so we see the latest version of the JvaScript in the form of echma script(ES).
 
-->Now, we use JavaScript version 6 i.e;(ES6).
+    ->Now, we use JavaScript version 6 i.e;(ES6).
 
-->In other way, we called ES6 as the vanilla JavaScript.
+    ->In other way, we called ES6 as the vanilla JavaScript.
 
-->JavaScript is aminly used for building logics or functionality of a webpages.
+    ->JavaScript is aminly used for building logics or functionality of a webpages.
 
 --:VARIABLES:--
-->It is a container to store some data.
 
-->There are 3 types of variables present in JavaScript:-
+    ->It is a container to store some data.
+
+    ->There are 3 types of variables present in JavaScript:-
 
     1.let: 
             -It is a type of variable which is used for changing the variable name later.
@@ -31,9 +32,13 @@
             -It means constant to store some data like numbers, integers, etc...
 
 --:Rules For Creating Variables Names:--
+
     -Variable names are case sensetive 'a',& 'A' is different.
+    
     -Only letter, underscore and $ is allowed(no space).
+    
     -Only letter, underscore and $ should be the 1st character.
+    
     -Reserved words cann't be variables.
 
 HOMEWORK------
